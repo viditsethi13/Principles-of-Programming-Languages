@@ -55,10 +55,15 @@ c.	Write a C program to find the roots of a quadratic equation.
 d.	Write a C program to check whether a given 3 digit number is Armstrong number or not.
 
 e.	Write a C program to print the numbers in triangular form
+
     1
+    
     1	2
+    
     1	2	3
+    
     1	2	3	4
+    
     
     
 
