@@ -7,23 +7,23 @@ int main()
 	scanf("%d%d",&a,&b);
 	while(1)
 	{
-		printf("Enter a for addition\nEnter s for subtraction\nEnter m for multiplication\nEnter d for division\nenter r for modulus\nEnter e for exit\n:");
+		printf("Enter + for addition\nEnter - for subtraction\nEnter * for multiplication\nEnter / for division\nenter % for modulus\nEnter e for exit\n:");
 		scanf("%c",&c);
 		switch(c)
 		{
-			case 'a':
+			case '+':
 				printf("%d\n",a+b);
 				break;
-			case 's':
+			case '-':
 				printf("%d\n",a-b);
 				break;
-			case 'm':
+			case '*':
 				printf("%d\n",a*b);
 				break;
-			case 'd':
+			case '/':
 				printf("%d\n",a/b);
 				break;
-			case 'r':
+			case '%':
 				printf("%d\n",a%b);
 				break;
 			case 'e':
