@@ -92,7 +92,9 @@ Week-5
 STRINGS
 
 a. Write a C program that uses functions to perform the following operations:
+
    To insert a sub string into a given main string from a given position.
+   
    To delete n characters from a given position in a given string.
    
 b. Write a C program to determine if the given string is a palindrome or not.
