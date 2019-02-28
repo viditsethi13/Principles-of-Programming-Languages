@@ -57,3 +57,18 @@ e.	Write a C program to print the numbers in triangular form
     1	2	3	4
     
     
+
+Week-4
+ARRAYS
+
+a. Write a C program to find the second largest integer in a list of integers.
+
+b. Write a C program to perform the following:
+1. Addition of two matrices
+2. Multiplication of two matrices
+
+c. Write a C program to count and display positive, negative, odd and even numbers in an array.
+
+d. Write a C program to merge two sorted arrays into another array in a sorted order.
+
+e. Write a C program to find the frequency of a particular number in a list of integers.
