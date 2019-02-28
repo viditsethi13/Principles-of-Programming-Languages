@@ -18,6 +18,8 @@ e.	Write a C program to read the values of x and y and print the results of the 
     
     
     
+    
+    
 Week-2 	
 CONTROL STRUCTURES
 
@@ -35,6 +37,8 @@ d.	A character is entered through keyboard. Write a C program to determine wheth
     Special symbols	0 – 47, 58 – 64, 91 – 96, 123 – 127
     
 e. If cost price and selling price of an item is input through the keyboard, write a program to determine whether the seller has made        profit or incurred loss. Write a C program to determine how much profit or loss incurred in percentage.
+
+
 
 
 
@@ -58,6 +62,8 @@ e.	Write a C program to print the numbers in triangular form
     
     
 
+
+
 Week-4
 ARRAYS
 
@@ -72,3 +78,83 @@ c. Write a C program to count and display positive, negative, odd and even numbe
 d. Write a C program to merge two sorted arrays into another array in a sorted order.
 
 e. Write a C program to find the frequency of a particular number in a list of integers.
+
+
+
+
+
+Week-5
+STRINGS
+
+a. Write a C program that uses functions to perform the following operations:
+   To insert a sub string into a given main string from a given position.
+   To delete n characters from a given position in a given string.
+   
+b. Write a C program to determine if the given string is a palindrome or not.
+
+c. Write a C program to find a string within a sentence and replace it with another string.
+
+d. Write a C program that reads a line of text and counts all occurrence of a particular word.
+
+e. Write a C program that displays the position or index in the string S where the string T begins, or 1 if S doesn't contain T.
+
+
+
+
+
+Week-6	
+FUNCTIONS
+
+a.	Write C programs that use both recursive and non-recursive functions
+    i.	To find the factorial of a given integer.
+    ii.	To find the greatest common divisor of two given integers.
+    
+b.	Write C programs that use both recursive and non-recursive functions
+    i.	To print Fibonacci series.
+    ii.	To solve towers of Hanoi problem.
+    
+c.	Write a C program to print the transpose of a given matrix using function.
+
+d.	Write a C program that uses a function to reverse a given string.
+
+
+
+
+
+
+
+Week-7
+POINTERS
+
+a.	Write a C program to concatenate two strings using pointers.
+
+b.	Write a C program to find the length of string using pointers.
+
+c.	Write a C program to compare two strings using pointers.
+
+d.	Write a C program to copy a string from source to destination using pointers.
+
+e.	Write a C program to reverse a string using pointers.
+
+
+
+
+
+
+Week-8
+STRUCTURES AND UNIONS
+
+a.	Write a C program that uses functions to perform the following operations:
+    i.	 Reading a complex number
+    ii.	 Writing a complex number
+    iii. Addition and subtraction of two complex numbers
+    iv.	 Multiplication of two complex numbers. Note: represent complex number using a structure.
+    
+b.	Write a C program to compute the monthly pay of 100 employees using each employee’s name, basic pay. The DA is computed as 52% of       the basic pay. Gross-salary (basic pay + DA). Print the employees name and gross salary.
+
+c.	Create a Book structure containing book_id, title, author name and price. Write a C program to pass a structure as a function           argument and print the book details.
+
+d.	Create a union containing 6 strings: name, home_address, hostel_address, city, state and zip. Write a C program to display your         present address.
+
+e.	Write a C program to define a structure named DOB, which contains name, day, month and year. Using the concept of nested structures     display your name and date of birth.
+
