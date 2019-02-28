@@ -1,7 +1,9 @@
 # Principles-of-Programming-Languages
 
 
-Week-1	OPERATORS AND EVALUATION OF EXPRESSIONS
+Week-1	
+OPERATORS AND EVALUATION OF EXPRESSIONS
+
 a.	Write a C program to check whether a number is even or odd using ternary operator.
 
 b.	Write a C program to perform the addition of two numbers without using + operator.
@@ -16,7 +18,9 @@ e.	Write a C program to read the values of x and y and print the results of the 
     
     
     
-Week-2 	CONTROL STRUCTURES
+Week-2 	
+CONTROL STRUCTURES
+
 a.	Write a C program to find the sum of individual digits of a positive integer.
 
 b.	A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent terms are found by         adding the preceding two terms in the sequence. Write a C program to generate the first n terms of the sequence.
@@ -34,7 +38,9 @@ e. If cost price and selling price of an item is input through the keyboard, wri
 
 
 
-Week-3	CONTROL STRUCTURES
+Week-3	
+CONTROL STRUCTURES
+
 a.  Write a C program, which takes two integer operands and one operator from the user, performs the operation and then prints the           result. (Consider the operators +, -, *, /, % and use switch statement).
 
 b.	Write a C program to calculate the following sum:
